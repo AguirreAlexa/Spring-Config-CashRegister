@@ -1,0 +1,5 @@
+server:
+  port: 8085
+
+bill_denomination: {10, 20, 50, 100, 200, 500, 1000}
+max_cash: 5000
